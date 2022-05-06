@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.main{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(39deg, #c931d4, #1398d4); 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.main h1{
+    font-size: 10vw;
+    color: white
+}
