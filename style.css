@@ -18,20 +18,20 @@
     color: white
 }
 .g1{
-    color: gold;
+    color: rgb(255, 255, 255);
 }
 .g2{
-    color: red;
+    color: rgb(0, 0, 0);
 }
 .g3{
-    color: blue;
+    color: rgb(255, 255, 255);
 }
 .g4{
-    color: purple;
+    color: rgb(0, 0, 0);
 }
 .g5{
-    color: rgb(0, 255, 47);
+    color: rgb(255, 255, 255);
 }
 .g6{
-    color: rgb(0, 255, 234);
+    color: rgb(0, 0, 0);
 }
